@@ -58,7 +58,7 @@ app.run()
 #
 hostname &hostname;.local
 
-chmod a+x /tmp/product/do_partition.py
+chmod a+x /tmp/product/pyanaconda/do_partition.py
 </pre>
 
 <pre cond="rocks_version_major == 7">
